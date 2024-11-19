@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Vouchers - Reverse Redemption\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-20 07:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.2"
+
+#: includes/admin/class-woo-vou-rr-admin.php:47
+msgid "Allow Reverse Redeem"
+msgstr ""
+
+#: includes/class-woo-vou-rr-scripts.php:42
+#: includes/class-woo-vou-rr-scripts.php:76
+#: includes/class-woo-vou-rr-scripts.php:91
+msgid "Are you sure you want to reverse redeem this voucher code?"
+msgstr ""
+
+#: woocommerce-pdf-vouchers-reverse-redeem.php:209
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:75
+msgid "Extensions Settings"
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:206
+#: includes/admin/class-woo-vou-rr-admin.php:209
+#: includes/admin/class-woo-vou-rr-admin.php:238
+#: includes/admin/class-woo-vou-rr-admin.php:241
+msgid "Full Reverse Redeem"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpwebelite.com/"
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:597
+msgid "Partial redemption for this voucher code done successfully."
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:101
+#: includes/admin/class-woo-vou-rr-admin.php:125
+#: includes/admin/class-woo-vou-rr-admin.php:184
+#: includes/admin/class-woo-vou-rr-admin.php:186
+#: includes/admin/class-woo-vou-rr-admin.php:191
+#: includes/admin/class-woo-vou-rr-admin.php:194
+#: includes/admin/class-woo-vou-rr-admin.php:220
+#: includes/admin/class-woo-vou-rr-admin.php:222
+#: includes/admin/class-woo-vou-rr-admin.php:227
+#: includes/admin/class-woo-vou-rr-admin.php:230
+msgid "Reverse Redeem"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Reverse Redemption add-on allows you to undo already redeemed voucher codes."
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:403
+#: includes/admin/class-woo-vou-rr-admin.php:490
+msgid "Reverse redemption for this voucher code done successfully."
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:40
+msgid "Reverse Redemption Settings"
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:48
+msgid "Select the user roles that can reverse the redeemed vouchers."
+msgstr ""
+
+#: woocommerce-pdf-vouchers-reverse-redeem.php:207
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-pdf-vouchers-reverse-redeem.php:208
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:610
+msgid "This partial redeem doesn't reversed."
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:283
+msgid "Voucher code doesn't exist."
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:315
+msgid "Voucher code doesn't redeemed previously."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce PDF Vouchers - Reverse Redemption"
+msgstr ""
+
+#: woocommerce-pdf-vouchers-reverse-redeem.php:57
+msgid ""
+"Woocommerce PDF Vouchers needs to be activated to be able to use the "
+"Woocommerce PDF Voucher Reverse Redeem."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPWeb"
+msgstr ""
+
+#: includes/admin/class-woo-vou-rr-admin.php:502
+msgid "Your account doesn't access for reverse redeem."
+msgstr ""
